@@ -93,5 +93,5 @@ D.bar <- mean(D)
 D.bayes <-
   -2 * logLikelihood(c(mean(comb.chain[["b"]]), mean(comb.chain[["w"]])))
 
-DIC <- 2 * D.bar - D.parbar
+DIC <- 2 * D.bar - D.bayes
 print(DIC)
