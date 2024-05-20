@@ -1,2 +1,2 @@
 # BDCop4CF
-*This manuscript is currently under review. More information coming soon...*
+*The manuscript associated with these codes is currently under review. More information coming soon...*
