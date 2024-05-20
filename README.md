@@ -1,2 +1,2 @@
 # BDCop4CF
-Bayesian dynamic copulas with Stan for compound flood drivers.
+*This manuscript is currently under review. More information coming soon...*
