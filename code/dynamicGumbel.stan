@@ -36,7 +36,6 @@ generated quantities{
 	vector[N] loglike;
 	{
 		real theta;
-		
 		for (i in 1:N){
 			theta = b + w * x[i];
 			loglike[i] = gumbel_copula(u[i], v[i], theta);
