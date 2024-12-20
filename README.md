@@ -1,5 +1,5 @@
 # BDCop4CF
-Boumis, G., Moftakhari, H.R., Lee, D., & Moradkhani, H. (2024). In search of non-stationary dependence between estuarine river discharge and storm surge based on large-scale climate teleconnections. Advances in Water Resources, p.104858. [https://doi.org/10.1016/j.advwatres.2024.104858](https://doi.org/10.1016/j.advwatres.2024.104858)
+Boumis, G., Moftakhari, H.R., Lee, D., & Moradkhani, H. (2024). In search of non-stationary dependence between estuarine river discharge and storm surge based on large-scale climate teleconnections. *Advances in Water Resources*, p.104858. [https://doi.org/10.1016/j.advwatres.2024.104858](https://doi.org/10.1016/j.advwatres.2024.104858)
 
 ## Summary
 Assessing evolving relationships between flood drivers is crucial for bivariate flood hazard quantification. We have developed a Bayesian framework to model non-stationarity of compound flood hazard based on copulas whose parameter varies based on large-scale climate teleconnections.
